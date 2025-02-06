@@ -1,4 +1,6 @@
 
+User-Posts dashboard using Next.js, TypeScript and Tailwind
+
 ## Setup the application
 
 Clone the repository
