@@ -19,3 +19,13 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@layer components {
+  .label {
+    @apply col-span-1;
+  }
+
+  .value {
+    @apply col-span-2;
+  }
+}
